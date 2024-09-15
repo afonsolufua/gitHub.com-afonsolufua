@@ -1,0 +1,4 @@
+# gitHub.com-afonsolufua
+nome=input('digite o seu nome')
+idade=input('Qual é a sua idade?')
+input('o seu nome é',nome,'e tens',idades,'anos')
